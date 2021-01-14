@@ -77,8 +77,7 @@ h4 {
 }
 
 section {
-    padding-bottom: 150px;
-    height: 600px;
+    min-height: 600px;
 }
 
 .link-button img {
