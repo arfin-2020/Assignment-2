@@ -78,6 +78,7 @@ h4 {
 
 section {
     min-height: 600px;
+    margin-bottom: 150px;
 }
 
 .link-button img {
@@ -111,4 +112,15 @@ section {
     border: none;
     border-radius: 10px;
     box-shadow: 10px 10px 40px rgb(102, 95, 95);
+}
+
+.images img {
+    width: 50%;
+    /* margin-left: 50px; */
+}
+
+.article {
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
 }
